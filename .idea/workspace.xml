@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab92a4bf-1daf-4dd9-8917-3dd2dbcf7f8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cR95KlvfkXLn9f1Yx9khEJ0ETr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.rahn.PhotoAppApiUsers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PhotoAppApiUsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PhotoAppApiUsers" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rahn.PhotoAppApiUsers.PhotoAppApiUsersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab92a4bf-1daf-4dd9-8917-3dd2dbcf7f8a" name="Default Changelist" comment="" />
+      <created>1590480353401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590480353401</updated>
+      <workItem from="1590480358204" duration="1037000" />
+      <workItem from="1590481958705" duration="809000" />
+      <workItem from="1590482802874" duration="1633000" />
+      <workItem from="1590485171623" duration="3743000" />
+      <workItem from="1590499544813" duration="2171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590485805140">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="292" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1590485805140" />
+    <state x="486" y="337" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590485807603">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="337" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1590485807603" />
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1590502627186">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590502627186" />
+    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1590502627184">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590502627184" />
+    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1590502627183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590502627183" />
+    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1590502627185">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590502627185" />
+    <state width="1398" height="291" key="GridCell.Tab.1.bottom" timestamp="1590502627190">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590502627190" />
+    <state width="1398" height="291" key="GridCell.Tab.1.center" timestamp="1590502627188">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590502627188" />
+    <state width="1398" height="291" key="GridCell.Tab.1.left" timestamp="1590502627187">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590502627187" />
+    <state width="1398" height="291" key="GridCell.Tab.1.right" timestamp="1590502627189">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590502627189" />
+    <state x="376" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1590485173183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1590485173183" />
+  </component>
+</project>
